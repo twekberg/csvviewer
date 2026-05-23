@@ -46,3 +46,11 @@ as a CSV file:
 	grep 2988.00 checking.csv | ../src/csvviewer/bin/csvviewer '-d;' -
 
 This looks for one or more checks containing 2988.00.
+
+# Original author information
+
+Email:  franklinsijo@gmail.com
+
+URL: https://github.com/franklinsijo/csvviewer
+
+Name: Sijo Franklin
